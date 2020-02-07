@@ -150,23 +150,23 @@ Some text to show that the reference links can follow later.
 Here's our logo (hover to see the title text):
 
 Inline-style:
-![alt text](https://d3uinntk0mqu3p.cloudfront.net/branding/market/d9098879-8e48-437e-b82b-cc2a515677e3.png "Logo Title Text 1")
+![alt text](https://cdn0.iconfinder.com/data/icons/video-game-items-concepts-line-art/128/dd-dice-512.png "Logo Title Text 1")
 
 Reference-style:
 ![alt text][logo]
 
-[logo]: https://d3uinntk0mqu3p.cloudfront.net/branding/market/d9098879-8e48-437e-b82b-cc2a515677e3.png "Logo Title Text 2"
+[logo]: hhttps://cdn0.iconfinder.com/data/icons/video-game-items-concepts-line-art/128/dd-dice-512.png "Logo Title Text 2"
 ```
 
-Here's our logo (hover to see the title text):
+Here's an image logo from the web (hover to see the title text):
 
 Inline-style:
-![alt text](https://d3uinntk0mqu3p.cloudfront.net/branding/market/d9098879-8e48-437e-b82b-cc2a515677e3.png "Logo Title Text 1")
+![alt text](https://cdn0.iconfinder.com/data/icons/video-game-items-concepts-line-art/128/dd-dice-512.png "Logo Title Text 1")
 
 Reference-style:
 ![alt text][logo]
 
-[logo]: https://d3uinntk0mqu3p.cloudfront.net/branding/market/d9098879-8e48-437e-b82b-cc2a515677e3.png "Logo Title Text 2"
+[logo]: https://cdn0.iconfinder.com/data/icons/video-game-items-concepts-line-art/128/dd-dice-512.png "Logo Title Text 2"
 
 ## Code and Syntax Highlighting
 ```
